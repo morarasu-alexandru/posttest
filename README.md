@@ -1,2 +1,2 @@
-# posttest
- Just a post test
+# post test
+ Just posting a website on github pages
